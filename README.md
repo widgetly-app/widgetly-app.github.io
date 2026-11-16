@@ -1,4 +1,4 @@
-# Widgetly website
+# Widgetail website
 
 Served at https://widgetly-app.github.io
 
